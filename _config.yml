@@ -11,6 +11,10 @@ description:         'Small blog.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
+pages_list:
+    About: '/about'
+    Archive: '/archive'
+    Feed: '/atom.xml'
 
 # About/contact
 author:
