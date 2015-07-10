@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               'TheStigger Blog'
 tagline:             'Keep Calm and Code On'
 description:         'Small blog.'
-url:                 http://lanyon.getpoole.com
+url:                 https://github.com/TheStigger/
 baseurl:             ''
 paginate:            5
 pages_list:
