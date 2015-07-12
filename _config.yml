@@ -12,7 +12,6 @@ url:                 https://github.com/TheStigger/
 baseurl:             ''
 paginate:            5
 pages_list:
-    Blog: '/blog'
     About: '/about'
     Archive: '/archive'
     Feed: '/atom.xml'
