@@ -1,5 +1,5 @@
 Almost every Java programmer recommends to read book 
-"Thinking in Java". So a few days ago I've decided to 
+"Thinking in Java". So a few days ago I decided to 
 learn Java from scratch through this book.
 
 I need to understand all Java mechanics and teach myself 
