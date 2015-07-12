@@ -11,6 +11,7 @@ description:         'Keep Calm and Code On'
 url:                 https://github.com/TheStigger/
 baseurl:             ''
 paginate:            5
+paginate_path:       "blog/page/:num/"
 pages_list:
     About: '/about'
     Archive: '/archive'
