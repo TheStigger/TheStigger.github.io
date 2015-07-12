@@ -4,7 +4,7 @@ title: About
 ---
 
 I am Maxim Solomkin and I am studying at Kiev Polytechnic Institute 
-and the Heat and Power Energe Department on the Programm Engineering 
+at the Heat and Power Energe Department on the Programm Engineering 
 speciality.
 
 Somewhere there I will add my resume and some links to my profile 
