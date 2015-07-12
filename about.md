@@ -7,24 +7,22 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am Maxim Solomkin and I am studying at Kiev Polytechnic Institute 
+and the Heat and Power Energe Department on the Programm Engineering 
+speciality.
 
-There are currently two themes built on Poole:
+Somewhere there I will add my resume and some links to my profile 
+in different social networks.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# My knowledge base
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I am trying to learn everything that could be useful to me in future.
 
-## Setup
+#### Books
+[ ] Programming language C (not completed)
 
-Some fun facts about the setup of this project include:
+[x] Dive into Python
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+[x] Head First, Java
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[ ] Thinking Java
