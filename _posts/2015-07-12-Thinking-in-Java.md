@@ -1,3 +1,8 @@
+---
+layout: post
+title: Java from scratch
+---
+
 Almost every Java programmer recommends to read book 
 "Thinking in Java". So a few days ago I decided to 
 learn Java from scratch through this book.
