@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Java from scratch
+comments: True
 ---
 
 Almost every Java programmer recommends to read book 
