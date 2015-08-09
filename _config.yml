@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               'TheStigger'
 tagline:             'Solomkin Maxim'
-description:         'Keep Calm and Code On'
+description:         'Blog of Things'
 url:                 https://github.com/TheStigger/
 baseurl:             ''
 paginate:            5
