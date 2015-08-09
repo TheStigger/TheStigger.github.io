@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about/
 ---
 
 I am Maxim Solomkin and I am studying at Kiev Polytechnic Institute 
